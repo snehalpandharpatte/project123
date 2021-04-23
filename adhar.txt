@@ -1,0 +1,16 @@
+Microsoft Windows [Version 10.0.17763.253]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+H:\snehal\Django\denv\Scripts>activate
+
+(denv) H:\snehal\Django\denv\Scripts>cd ..
+
+(denv) H:\snehal\Django\denv>cd ..
+
+(denv) H:\snehal\Django>django-admin startproject djrelationship
+
+(denv) H:\snehal\Django>cd djrelationship
+
+(denv) H:\snehal\Django\djrelationship>python manage.py startapp aadhar
+
+(denv) H:\snehal\Django\djrelationship>
