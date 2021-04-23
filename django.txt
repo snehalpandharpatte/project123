@@ -1,0 +1,16 @@
+create new project:
+
+
+H:\snehal\Django\denv\Scripts>activate
+
+(denv) H:\snehal\Django\denv\Scripts>cd ..
+
+(denv) H:\snehal\Django\denv>cd ..
+
+(denv) H:\snehal\Django>django-admin startproject Relationship
+
+(denv) H:\snehal\Django>cd Relationship
+
+(denv) H:\snehal\Django\Relationship>python manage.py startapp College
+
+(denv) H:\snehal\Django\Relationship>
