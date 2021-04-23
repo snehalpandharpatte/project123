@@ -34,6 +34,8 @@ class Department(CommonFields):
     class Meta:
         db_table = 'dept'
 
+
+print("Hello")
 class Teacher(CommonFields):
     exp = models.FloatField()
     salary = models.IntegerField()
