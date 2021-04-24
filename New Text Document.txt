@@ -1,0 +1,4 @@
+Username (leave blank to use 'rupalichoudhari'): admin123
+Email address: ad@gmail.com
+Password: snehal@123
+Password (again):
